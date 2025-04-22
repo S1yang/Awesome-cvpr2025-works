@@ -70,6 +70,7 @@
 #### link:https://aim-skku.github.io/QA-TIGER/
 
 ![alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-7.png)
+
 创新点：混合专家+高斯加权机制对连续的时间动态建模，自适应地捕捉与问题相关的视听线索并改善时间对其。完成视听问答任务。
 
 ### IDEA-Bench: How Far are Generative Models from Professional Designing? IDEA-Bench：生成模型距离专业设计还有多远？
@@ -140,7 +141,7 @@ github 1.4k stars ,训练从视频中生成声音，很新颖且有价值的工�
 
 ### Towards Understanding Multi-Task Learning (Generalization) of LLMs via Detecting and Exploring Task-Specific Neurons 通过检测和探索特定任务的神经元来理解 LLMs 的多任务学习（泛化）
 
-### link:https://arxiv.org/html/2407.06488v2 (仅有论文)
+#### link:https://arxiv.org/html/2407.06488v2 (仅有论文)
 
 ![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-11.png)
 关注点：论文描述了 LLMS 中特定神经元对任务的贡献，通过关注对当前任务的特定神经元的微调，解决灾难和泛化性遗忘，并给出了 LLMS 可解释性的新观点。从识别特定神经元处出发，或许能有效地解决幻觉问题。
