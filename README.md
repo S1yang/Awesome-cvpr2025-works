@@ -10,7 +10,7 @@
 
 #### link:https://arxiv.org/html/2503.06625v1
 
-![Alt text](image.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image.png)
 
 创新点：VIT 进行无人机目标跟踪 轻量化可部署在低算力设备上 动态地禁用了大量表征相似的层，只保留一个最优层 达到 SOTA
 
@@ -18,14 +18,14 @@
 
 #### link:https://arxiv.org/html/2411.19548v1
 
-![Alt text](image-1.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-1.png)
 
 创新点：使用世界模型知识(LLM-enhanced)来增强驾驶场景重建,在线恢复、渐进式数据更新以保证大范围机动中高质量的渲染。
 
 ### LamRA: Large Multimodal Model as Your Advanced Retrieval Assistant LamRA：大型多模态模型，您的高级检索助手
 
-![Alt text](image-3.png)
-![Alt text](image-4.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-3.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-4.png)
 
 创新点：生成式大型多模态模型 (LMM) 重新用于检索
 
@@ -35,7 +35,7 @@
 
 #### https://arxiv.org/html/2406.09390v3
 
-![Alt text](image-5.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-5.png)
 
 创新点：数据集指令调优+多模态渐进式训练策略对齐多模态数据=理解日常生活活动的 LLVM
 
@@ -43,7 +43,7 @@
 
 #### https://arxiv.org/html/2412.00832v1
 
-![Alt text](image-6.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-6.png)
 
 创新点：用于事件相机创建的事件流的多模态大语言模型
 
@@ -69,7 +69,7 @@
 
 #### link:https://aim-skku.github.io/QA-TIGER/
 
-![alt text](image-7.png)
+![alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-7.png)
 创新点：混合专家+高斯加权机制对连续的时间动态建模，自适应地捕捉与问题相关的视听线索并改善时间对其。完成视听问答任务。
 
 ### IDEA-Bench: How Far are Generative Models from Professional Designing? IDEA-Bench：生成模型距离专业设计还有多远？
@@ -82,7 +82,7 @@
 
 #### link:https://arxiv.org/html/2503.13068v1 https://github.com/GeWu-Lab/Crab
 
-![Alt text](image-8.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-8.png)
 
 创新点：显式的任务合作+构建了一个具有显式推理过程的视听统一指令调优数据集 AV-UIE+设计了一个交互感知的 LoRA 结构
 
@@ -96,7 +96,7 @@
 
 #### link:https://github.com/shaohao011/BrainMVP cvpr-highlight
 
-![Alt text](image-9.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-9.png)
 
 关注点：多个跨模态表征学习代理任务+模态数据蒸馏任务 以提高模型多模态的能力
 
@@ -110,7 +110,7 @@
 
 #### link:https://github.com/dongyh20/Insight-V cvpr-highlight
 
-![Alt text](image-10.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-10.png)
 
 关注点：利用 CoT 提示增强 MLLM 完成视觉为中心的感知推理任务
 
@@ -142,7 +142,7 @@ github 1.4k stars ,训练从视频中生成声音，很新颖且有价值的工�
 
 ### link:https://arxiv.org/html/2407.06488v2 (仅有论文)
 
-![Alt text](image-11.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-11.png)
 关注点：论文描述了 LLMS 中特定神经元对任务的贡献，通过关注对当前任务的特定神经元的微调，解决灾难和泛化性遗忘，并给出了 LLMS 可解释性的新观点。从识别特定神经元处出发，或许能有效地解决幻觉问题。
 
 ### BlueLM-V-3B: Algorithm and System Co-Design for Multimodal Large Language Models on Mobile Devices BlueLM-V-3B：移动设备上多模态大型语言模型的算法与系统协同设计
@@ -153,7 +153,7 @@ github 1.4k stars ,训练从视频中生成声音，很新颖且有价值的工�
 
 #### link:https://github.com/APiaoG/SymDPO
 
-![Alt text](image-12.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-12.png)
 
 许多大模型在进行视觉语义任务时会偏好于直接忽略视觉信息，仅从文本提示生成响应。
 通过在 ICD 图像描述蒸馏 中将文本答案替换成不相关的随机字符，迫使模型学习视觉-符号的映射而不是直接偏心地学习语义信息，从而强化视觉理解。
@@ -164,14 +164,14 @@ github 1.4k stars ,训练从视频中生成声音，很新颖且有价值的工�
 
 #### link:https://github.com/zhyang2226/OPA-DPO cvpr-Oral
 
-![Alt text](image-13.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-13.png)
 方法简述：1.生成初始响应：​ 使用原始模型根据图像和提示生成响应。2.专家修订：​ 利用 GPT-4V 对生成的响应进行评估和修订，纠正幻觉内容。3.策略内对齐（OPA）：​ 通过低秩适配（LoRA）微调，将原始响应和修订后的响应对齐，使其成为策略内数据。4.DPO 训练：​ 使用对齐后的数据进行 DPO 训练，进一步优化模型。
 
 ### FactCheXcker: Mitigating Measurement Hallucinations in Chest X-ray Report Generation Models FactCheXcker：缓解测量幻觉 胸部 X 光报告生成模型
 
 #### link:https://arxiv.org/html/2411.18672v1#S1.T1 (代码未开源)
 
-![Alt text](image-14.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-14.png)
 
 FactCheXcker 由三个主要组件组成：查询生成器、代码生成器和报告更新器。当收到一张医学图像及其对应的 AI 生成的可能包含幻觉测量值的报告时，查询生成器会识别报告中潜在的测量差异，代码生成器会创建并执行专门的代码以从图像中获取精确的测量值，报告更新器会将这些经过验证的测量值集成到报告中。
 
@@ -186,7 +186,7 @@ FactCheXcker 由三个主要组件组成：查询生成器、代码生成器和�
 
 #### link:https://github.com/ZhangqiJiang07/middle_layers_indicating_hallucinations
 
-![Alt text](image-17.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-17.png)
 
 大型视觉语言模型 (LVLM) 中的幻觉显著降低了其可靠性，促使研究人员探索幻觉的成因。然而，大多数研究主要关注语言层面，而非视觉层面。本文探讨 LVLM 如何处理视觉信息，以及该过程是否会导致幻觉。
 首先，我们使用注意力透镜识别 LVLM 处理视觉数据的阶段，发现中间层至关重要。此外，我们发现这些层可以进一步细分为两个阶段：“视觉信息丰富”和“语义细化”，分别将视觉数据传播为对象标记并通过文本进行解读。通过分析视觉信息丰富阶段的注意力模式，我们发现真实标记始终比幻觉标记获得更高的注意力权重，这可以作为幻觉的有力指标。进一步研究多头注意力图谱发现，幻觉标记通常是由头部与不一致的物体交互产生的。
@@ -196,7 +196,7 @@ FactCheXcker 由三个主要组件组成：查询生成器、代码生成器和�
 
 #### link:https://arxiv.org/html/2409.09318v3 （代码未开源）
 
-![Alt text](image-15.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-15.png)
 
 幻觉对多模态大型语言模型 (MLLM) 构成了持续挑战。然而，现有的幻觉评估基准通常是静态的，这可能会忽略数据污染的潜在风险。为了解决这个问题，我们提出了 ODE，这是一个开放集的动态协议，旨在在存在性和属性层面评估 MLLM 中的对象幻觉。ODE 采用基于图的结构来表示现实世界中的对象概念、它们的属性以及它们之间的分布关联。该结构有助于基于不同的分布标准提取概念组合，从而为结构化查询生成多样化的样本，用于评估生成和判别任务中的幻觉。通过生成新样本、动态概念组合和不同的分布频率，ODE 降低了数据污染的风险并拓宽了评估范围。该协议适用于一般场景和特殊场景，包括数据有限的场景。实验结果证明了我们协议的有效性，表明使用 ODE 生成的样本进行评估时，MLLM 表现出更高的幻觉率，这表明存在潜在的数据污染。此外，这些生成的样本有助于分析幻觉模式和微调模型，为减轻 MLLM 中的幻觉提供有效的方法。
 
@@ -212,7 +212,7 @@ FactCheXcker 由三个主要组件组成：查询生成器、代码生成器和�
 
 #### link:https://github.com/Ziwei-Zheng/Nullu
 
-![Alt text](image-16.png)
+![Alt text](https://github.com/S1yang/Awesome-cvpr2025-works/blob/main/images/image-16.png)
 
 大型视觉语言模型 (LVLM) 经常受到对象幻觉 (OH) 的影响。为了缓解此问题，我们提出了一种基于不安全子空间（本文中我们称之为 HalluSpace）编辑模型权重的有效方法。通过真实文本提示和幻觉文本提示与视觉内容一起作为输入，我们可以通过提取幻觉嵌入特征并移除 LVLM 中的真实表示来识别 HalluSpace。通过正交化模型权重，输入特征将被投影到 HalluSpace 的零空间 (Null space) 中以减少 OH，基于此我们将该方法命名为 Nullu。
 我们发现，在用于构建 LVLM 的大型语言模型 (LLMs) 中，HalluSpace 通常包含先验信息，而先前的研究表明，这些信息是导致 OH 的关键原因。因此，零空间投影可以抑制 LLMs 的先验信息，从而滤除幻觉特征，最终获得上下文准确的输出。
